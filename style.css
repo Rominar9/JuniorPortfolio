@@ -1,9 +1,9 @@
 .banner{
-  background-color: rgba(243, 220, 248);
+  background-color: rgba(213, 32, 32);
   margin: 15px;
   padding: 10px;
-  border: 3px solid #9735CF;
-  box-shadow: 1px 3px 30px 1px #9100B2;
+  border: 3px solid #bb0000;
+  box-shadow: 1px 3px 30px 1px #fb9797;
   text-transform: capitalize;
   text-shadow: 1px 1px #7551C9 ;
   font-family: Arial;
