@@ -35,9 +35,10 @@ body{
   border: 3px solid #9735CF;
   box-shadow: 1px 3px 30px 1px #9100B2;
   text-transform: capitalize;
-  text-shadow: 1px 1px #7551C9 ;
+  text-shadow: 1px 1px #7551C9;
   font-family: Italic;
-  height: 150px;
+  font-size: 14px;
+  height: 200px;
   text-align: left;
   font-style: oblique;
   background-image: url('background2.gif');
