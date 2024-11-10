@@ -6,7 +6,7 @@
   box-shadow: 1px 3px 30px 1px #9100B2;
   text-transform: capitalize;
   text-shadow: 1px 1px #7551C9 ;
-  font-family: Arial;
+  font-family: Italic;
   height: 150px;
   text-align: right;
   font-style: oblique;
@@ -21,7 +21,7 @@ h1{
 }
 
 #l1{
-  border:#9100B2 1px solid;
+  border:#9735CF 1px solid;
   background-image:repeating-linear-gradient(	#CBA8D3, #D79DC8);
 }
 body{
