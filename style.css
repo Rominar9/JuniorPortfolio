@@ -8,6 +8,7 @@
   padding: 10px 15px;
   border: none;
   cursor: pointer;
+  text-align: left;
 }
 
 .dropdown a{
@@ -46,7 +47,7 @@
   text-transform: capitalize;
   text-shadow: 1px 1px #7551C9 ;
   font-family: Italic;
-  font-size: 30px;
+  font-size: 28px;
   height: 150px;
   text-align: right;
   font-style: oblique;
