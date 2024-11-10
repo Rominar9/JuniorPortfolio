@@ -7,7 +7,6 @@
   color: white;
   padding: 10px 15px;
   border: none;
-  button-align: right;
   cursor: pointer;
 }
 
@@ -80,7 +79,7 @@ body{
   font-family: Italic;
   font-size: 25px;
   height: 1000px;
-  text-align: left;
+  text-align: right;
   font-style: oblique;
   background-image: url('background2.gif');
   background-repeat:no-repeat;
