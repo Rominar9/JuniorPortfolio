@@ -7,7 +7,7 @@
   color: white;
   padding: 10px 15px;
   border: none;
-  box-align: right;
+  button-align: right;
   cursor: pointer;
 }
 
@@ -47,7 +47,7 @@
   text-transform: capitalize;
   text-shadow: 1px 1px #7551C9 ;
   font-family: Italic;
-  font-size: 25px;
+  font-size: 19px;
   height: 150px;
   text-align: right;
   font-style: oblique;
