@@ -1,0 +1,17 @@
+body {
+  background-image: url('background2.gif');
+  text-align: center;
+}
+p {
+  background-color: rgba(213, 32, 32);
+}
+img {
+  margin: 15px;
+  width:450px;
+}
+
+a {
+  font-weight: bold;
+  text-decoration: none;
+}
+  
