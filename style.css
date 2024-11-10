@@ -99,13 +99,3 @@ body{
   right: 50px;
 }
 
-.clickable-box{
-  width: 200px;
-  height: 200px;
-  border: 5px solid #6D3C71;
-  border-radius: 10px;
-  padding: 10px;
-  text-align:center;
-  background-color: #9A589E;
-  cursor:pointer;
-}
