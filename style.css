@@ -50,6 +50,13 @@ body{
   left: 50px;
 }
 
+#logo2{
+  width: 120px;
+  position: absolute;
+  right: 50px;
+}
+
+
 hr{
  border-top: 10px dotted Purple;
  border-radius: 10px;
