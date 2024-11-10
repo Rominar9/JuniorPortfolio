@@ -69,3 +69,18 @@ body{
   background-color: #9A589E;
   cursor:pointer;
 }
+
+.dropdown button{
+  background-color: rgba(213, 32, 32);
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown a{
+  display: block;
+  color: white;
+  text-decoration: none;
+  padding: 10px 15px;
+}
