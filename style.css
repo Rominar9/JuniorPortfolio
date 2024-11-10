@@ -29,15 +29,17 @@ body{
 }
 
 .container{
-  border: 3px #9735CF solid;
-  box-shadow: 1px 3px 30px 1px #9100B2;
-  position: relative;
-  top: 2px;
+  background-color: rgba(213, 32, 32);
   margin: 15px;
   padding: 10px;
-  height: 8300px;
-  overflow: hidden;
-  background-color: rgba(243, 220, 248);
+  border: 3px solid #9735CF;
+  box-shadow: 1px 3px 30px 1px #9100B2;
+  text-transform: capitalize;
+  text-shadow: 1px 1px #7551C9 ;
+  font-family: Italic;
+  height: 150px;
+  text-align: left;
+  font-style: oblique;
   background-image: url('background2.gif');
   background-repeat:no-repeat;
   background-attachment:fixed;
