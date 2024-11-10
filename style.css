@@ -70,6 +70,10 @@ body{
   cursor:pointer;
 }
 
+.dropdown{
+  display: inline-block;
+}
+
 .dropdown button{
   background-color: rgba(213, 32, 32);
   color: white;
@@ -83,4 +87,24 @@ body{
   color: white;
   text-decoration: none;
   padding: 10px 15px;
+}
+
+.dropdown .content{
+  display: none;
+  position: absolute:
+  background-color: rgba(213, 32, 32);
+  min-width: 100px;
+  box-shadow: 1px 3px 30px 1px #9100B2;
+  }
+
+.dropdown:hover .content{
+  display: block;
+}
+
+.dropdown:hover button{
+  background-color: rgba(221, 179, 225);
+}
+
+.dropdown a:hover{
+   background-color: rgba(221, 179, 225);
 }
