@@ -22,9 +22,12 @@
 .dropdown .content{
   display: none;
   position: absolute:
+  left: 0;
   background-color: rgba(213, 32, 32);
   min-width: 100px;
+  z-index: 1;
   box-shadow: 1px 3px 30px 1px #9100B2;
+  border-radius: 5px;
   }
 
 .dropdown:hover .content{
