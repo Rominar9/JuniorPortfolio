@@ -1,9 +1,8 @@
 body {
-  background-image: url('background2.gif');
   text-align: center;
 }
 p {
-  background-color: rgba(213, 32, 32);
+  background-color: rgba(200, 139, 238);
 }
 img {
   margin: 15px;
