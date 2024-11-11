@@ -2,6 +2,11 @@ body {
   background-color: #c88bee;
   text-align: center;
 }
+hr{
+ border-top: 10px #c88bee;
+ border-radius: 10px;
+}
+  
 p {
   background: #c88bee;
   font-size: 25px;
