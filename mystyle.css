@@ -4,10 +4,12 @@ body {
 }
 p {
   background: #c88bee;
+  font-size: 15px;
+  font-color: black;
 }
 img {
-  margin: 15px;
-  width:450px;
+  margin: 25px;
+  width:550px;
 }
 
 a {
